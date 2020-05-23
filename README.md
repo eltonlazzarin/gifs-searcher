@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Logo Icon" src="https://github.com/eltonlazzarin/todo-list/blob/master/screenshots/icon/todolist.svg" height="150px" width="150px" /> 
     <br>
-    Gif Searcher
+    Gifs Searcher
 </h1>
 
 <h4 align="center">
@@ -43,7 +43,7 @@ This project was developed with the following technologies:
 $ git clone https://github.com/eltonlazzarin/gifs-searcher.git
 
 # Go into the repository
-$ cd todo-list
+$ cd gifs-searcher
 
 # Run the app - Run this command line after your virtual or physical mobile be connected on your computer
 $ flutter run
