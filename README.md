@@ -35,6 +35,8 @@ This project was developed with the following technologies:
 - [Flutter](https://github.com/flutter/flutter)
 - [VS Code](https://code.visualstudio.com)
 - [http](https://pub.dev/packages/http)
+- [transparent_image](https://pub.dev/packages/transparent_image)
+- [share](https://pub.dev/packages/share)
 
 ## :information_source: How To Use
 
