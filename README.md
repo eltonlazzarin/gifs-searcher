@@ -1,6 +1,4 @@
 <h1 align="center">
-    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/todo-list/blob/master/screenshots/icon/todolist.svg" height="150px" width="150px" /> 
-    <br>
     Gifs Searcher
 </h1>
 
